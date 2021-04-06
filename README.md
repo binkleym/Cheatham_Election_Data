@@ -9,5 +9,7 @@ The "data" folder contains two spreadsheets:
 
 The "gis_shapefiles" folder contains GIS shapefile maps of county precincts going back to 2000.  These are useful if you are trying to map the data in the spreadsheets above.
 
+I will, as time allows, add some example code using R to load, analyze, and graph/map the data.
 
+![Example 1:  2020 Presidential Election](images/Cheatham_Example1.png)
 
