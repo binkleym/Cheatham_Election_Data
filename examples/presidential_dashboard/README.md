@@ -10,4 +10,4 @@ Notice that precinct boundaries change twice between 2000 and 2020.
 
 A demo of this app is running on my home server (so it may occasionally not work):
 
-[http://r.mathewbinkley.org:7474/cheatham](http://r.mathewbinkley.org:7474/cheatham)
+[https://r.mathewbinkley.org:7474/cheatham](https://r.mathewbinkley.org:7474/cheatham)
