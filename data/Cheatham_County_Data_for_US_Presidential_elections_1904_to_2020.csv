@@ -1,0 +1,158 @@
+Year,County,Party,Partisan_Lean,Candidate,Votes,National_Winner,County_Winner
+1904,Cheatham,Democratic,Center-Left,Alton B. Parker,1015,FALSE,TRUE
+1904,Cheatham,Republican,Center-Right,Theodore Roosevelt,420,TRUE,FALSE
+1904,Cheatham,Populist,Left,Thomas E. Watson,8,FALSE,FALSE
+1904,Cheatham,Prohibition,Other,Silas C. Swallow,6,FALSE,FALSE
+1904,Cheatham,Socialist,Left,Eugene V. Debs,0,FALSE,FALSE
+1908,Cheatham,Democratic,Center-Left,William Howard Taft,1206,TRUE,TRUE
+1908,Cheatham,Republican,Center-Right,William Jennings Bryan,526,FALSE,FALSE
+1908,Cheatham,Socialist,Left,Eugene V. Debs,2,FALSE,FALSE
+1908,Cheatham,Populist,Left,Thomas E. Watson,0,FALSE,FALSE
+1908,Cheatham,Other,Other,Various,0,FALSE,FALSE
+1912,Cheatham,Democratic,Center-Left,Woodrow Wilson,1096,TRUE,TRUE
+1912,Cheatham,Republican,Center-Right,William Howard Taft,317,FALSE,FALSE
+1912,Cheatham,Progressive,Left,Theodore Roosevelt,123,FALSE,FALSE
+1912,Cheatham,Socialist,Left,Eugene V. Debs,23,FALSE,FALSE
+1916,Cheatham,Democratic,Center-Left,Woodrow Wilson,1117,TRUE,TRUE
+1916,Cheatham,Republican,Center-Right,Charles Evans Hughes,439,FALSE,FALSE
+1916,Cheatham,Socialist,Left,Allan L. Benson,6,FALSE,FALSE
+1916,Cheatham,Prohibition,Other,Frank Hanly,0,FALSE,FALSE
+1920,Cheatham,Republican,Center-Right,Warren G. Harding,569,TRUE,FALSE
+1920,Cheatham,Democratic,Center-Left,James M. Cox,1219,FALSE,TRUE
+1920,Cheatham,Socialist,Left,Eugene V. Debs,3,FALSE,FALSE
+1924,Cheatham,Democratic,Center-Left,John W. Davis,868,FALSE,TRUE
+1924,Cheatham,Republican,Center-Right,Calvin Coolidge,181,TRUE,FALSE
+1924,Cheatham,Progressive,Left,Robert M. La Follette,14,FALSE,FALSE
+1924,Cheatham,Other,Other,Various,3,FALSE,FALSE
+1928,Cheatham,Republican,Center-Right,Herbert Hoover,488,TRUE,FALSE
+1928,Cheatham,Democratic,Center-Left,Al Smith,913,FALSE,TRUE
+1928,Cheatham,Other,Other,Various,2,FALSE,FALSE
+1932,Cheatham,Democratic,Center-Left,Franklin D. Roosevelt,1370,TRUE,TRUE
+1932,Cheatham,Republican,Center-Right,Herbert Hoover,180,FALSE,FALSE
+1932,Cheatham,Prohibition,Other,William D. Upshaw,3,FALSE,FALSE
+1932,Cheatham,Socialist,Left,Norman Thomas,7,FALSE,FALSE
+1932,Cheatham,Communist,Far-Left,William Z. Foster,2,FALSE,FALSE
+1936,Cheatham,Democratic,Center-Left,Franklin D. Roosevelt,1352,TRUE,TRUE
+1936,Cheatham,Republican,Center-Right,Alf Landon,183,FALSE,FALSE
+1936,Cheatham,Other,Other,Various,8,FALSE,FALSE
+1940,Cheatham,Democratic,Center-Left,Franklin D. Roosevelt,1932,TRUE,TRUE
+1940,Cheatham,Republican,Center-Right,Wendell Willkie,331,FALSE,FALSE
+1940,Cheatham,Prohibition,Other,Roger W. Babson,1,FALSE,FALSE
+1940,Cheatham,Socialist,Left,Norman Thomas,2,FALSE,FALSE
+1944,Cheatham,Democratic,Center-Left,Franklin D. Roosevelt,1398,TRUE,TRUE
+1944,Cheatham,Republican,Center-Right,Thomas E. Dewey,216,FALSE,FALSE
+1944,Cheatham,Prohibition,Other,Claude A. Watson,2,FALSE,FALSE
+1944,Cheatham,Socialist,Left,Norman Thomas,0,FALSE,FALSE
+1948,Cheatham,Democratic,Center-Left,Harry S. Truman,2731,TRUE,TRUE
+1948,Cheatham,Republican,Center-Right,Thomas E. Dewey,193,FALSE,FALSE
+1948,Cheatham,States Rights,Far-Right,Strom Thurmond,150,FALSE,FALSE
+1948,Cheatham,Progressive,Left,Henry A. Wallace,8,FALSE,FALSE
+1948,Cheatham,Socialist,Left,Norman Thomas,1,FALSE,FALSE
+1952,Cheatham,Republican,Center-Right,Dwight R. Eisenhower,536,TRUE,FALSE
+1952,Cheatham,Democratic,Center-Left,Adlai Stevenson II,2222,FALSE,TRUE
+1952,Cheatham,Prohibition,Other,Stuart Hamblen,5,FALSE,FALSE
+1952,Cheatham,Progressive,Left,Vincent Hallinan,13,FALSE,FALSE
+1956,Cheatham,Republican,Center-Right,Dwight D. Eisenhower,498,TRUE,FALSE
+1956,Cheatham,Democratic,Center-Left,Adlai Stevenson II,2297,FALSE,TRUE
+1956,Cheatham,States Rights,Far-Right,T. Coleman Andrews,11,FALSE,FALSE
+1956,Cheatham,Prohibition,Other,Enoch Holtwick,5,FALSE,FALSE
+1960,Cheatham,Republican,Center-Right,Richard Nixon,683,FALSE,FALSE
+1960,Cheatham,Democratic,Center-Left,John F. Kennedy,1883,TRUE,TRUE
+1960,Cheatham,National States Rights,Far-Right,Orval Faubus,34,FALSE,FALSE
+1960,Cheatham,Prohibition,Other,Rutherford Decker,7,FALSE,FALSE
+1964,Cheatham,Democratic,Center-Left,Lyndon B. Johnson,2750,TRUE,TRUE
+1964,Cheatham,Republican,Center-Right,Barry Goldwater,803,FALSE,FALSE
+1964,Cheatham,Other,Other,Various,1,FALSE,FALSE
+1968,Cheatham,Republican,Center-Right,Richard Nixon,669,TRUE,FALSE
+1968,Cheatham,Democratic,Center-Left,Hubert Humphrey,778,FALSE,FALSE
+1968,Cheatham,American,Far-Right,George Wallace,2497,FALSE,TRUE
+1972,Cheatham,Republican,Center-Right,Richard Nixon,2235,TRUE,TRUE
+1972,Cheatham,Democratic,Center-Left,George McGovern,1321,FALSE,FALSE
+1972,Cheatham,American,Far-Right,John G. Schmitz,163,FALSE,FALSE
+1972,Cheatham,Other,Other,Various,0,FALSE,FALSE
+1976,Cheatham,Democratic,Center-Left,Jimmy Carter,4225,TRUE,TRUE
+1976,Cheatham,Republican,Center-Right,Gerald Ford,1376,FALSE,FALSE
+1976,Cheatham,American,Far-Right,Thomas J. Anderson,30,FALSE,FALSE
+1976,Cheatham,Independent:Eugene_Joseph_McCarthy,Left,Eugene Joseph McCarthy,10,FALSE,FALSE
+1976,Cheatham,Other,Other,Various,23,FALSE,FALSE
+1980,Cheatham,Republican,Center-Right,Ronald Reagan,2296,TRUE,FALSE
+1980,Cheatham,Democratic,Center-Left,Jimmy Carter,3771,FALSE,TRUE
+1980,Cheatham,Independent:John_B_Anderson,Center-Right,John B Anderson,90,FALSE,FALSE
+1980,Cheatham,Libertarian,Center,Ed Clark,29,FALSE,FALSE
+1980,Cheatham,Other,Other,Various,15,FALSE,FALSE
+1984,Cheatham,Republican,Center-Right,Ronald Reagan,4109,TRUE,TRUE
+1984,Cheatham,Democratic,Center-Left,Walter Mondale,3007,FALSE,FALSE
+1984,Cheatham,Other,Other,Various,53,FALSE,FALSE
+1988,Cheatham,Republican,Center-Right,George H.W. Bush,4132,TRUE,TRUE
+1988,Cheatham,Democratic,Center-Left,Michael Dukakis,3067,FALSE,FALSE
+1988,Cheatham,Libertarian,Center,Ron Paul,15,FALSE,FALSE
+1988,Cheatham,Independent:David_Duke,Far-Right,David Duke,36,FALSE,FALSE
+1992,Cheatham,Democratic,Center-Left,Bill Clinton,4817,TRUE,TRUE
+1992,Cheatham,Republican,Center-Right,Bob Dole,3496,FALSE,FALSE
+1992,Cheatham,Reform,Center,Ross Perot,1433,FALSE,FALSE
+1992,Cheatham,Other,Other,Various,42,FALSE,FALSE
+1996,Cheatham,Democratic,Center-Left,Bill Clinton,4883,TRUE,TRUE
+1996,Cheatham,Republican,Center-Right,Bob Dole,4283,FALSE,FALSE
+1996,Cheatham,Reform,Center,Ross Perot,705,FALSE,FALSE
+1996,Cheatham,Other,Other,Various,93,FALSE,FALSE
+2000,Cheatham,Democratic,Center-Left,Al Gore,6062,FALSE,FALSE
+2000,Cheatham,Republican,Center-Right,George W. Bush,6356,TRUE,TRUE
+2000,Cheatham,Libertarian,Center,Harry Browne,27,FALSE,FALSE
+2000,Cheatham,Green,Left,Ralph Nader,139,FALSE,FALSE
+2000,Cheatham,Reform,Center,Patrick Buchanan,19,FALSE,FALSE
+2000,Cheatham,Independent:Cathy_Gordon_Brown,Other,Cathy Gordon Brown,5,FALSE,FALSE
+2000,Cheatham,Natural Law,Other,John Hagelin,4,FALSE,FALSE
+2000,Cheatham,Independent:Howard_Phillips,Right,Howard Phillips,4,FALSE,FALSE
+2000,Cheatham,Independent:Randall_Venson,Left,Randall Venson,0,FALSE,FALSE
+2000,Cheatham,Write-in,Other,Write-in,0,FALSE,FALSE
+2004,Cheatham,Democratic,Center-Left,John Kerry,5918,FALSE,FALSE
+2004,Cheatham,Republican,Center-Right,George W. Bush,9676,TRUE,TRUE
+2004,Cheatham,Libertarian,Center,Michael Badnarik,28,FALSE,FALSE
+2004,Cheatham,Independent:Ralph_Nader,Left,Ralph Nader,56,FALSE,FALSE
+2004,Cheatham,Constitution,Far-Right,Michael Peroutka,19,FALSE,FALSE
+2004,Cheatham,Socialist,Left,Walt Brown,0,FALSE,FALSE
+2004,Cheatham,Green,Left,David Cobb,0,FALSE,FALSE
+2008,Cheatham,Democratic,Center-Left,Barack Obama,5498,TRUE,FALSE
+2008,Cheatham,Republican,Center-Right,John McCain,10702,FALSE,TRUE
+2008,Cheatham,Constitution,Far-Right,Chuck Baldwin,59,FALSE,FALSE
+2008,Cheatham,Libertarian,Center,Bob Barr,48,FALSE,FALSE
+2008,Cheatham,Boston Tea,Right,Charles Jay,4,FALSE,FALSE
+2008,Cheatham,Green,Left,Cynthia McKinney,11,FALSE,FALSE
+2008,Cheatham,Socialist,Left,Brian Moore,5,FALSE,FALSE
+2008,Cheatham,Independent:Ralph_Nader,Left,Ralph Nader,101,FALSE,FALSE
+2012,Cheatham,Republican,Center-Right,Mitt Romney,10268,FALSE,TRUE
+2012,Cheatham,Democratic,Center-Left,Barack Obama,4659,TRUE,FALSE
+2012,Cheatham,Constitution,Far-Right,Virgil Goode,38,FALSE,FALSE
+2012,Cheatham,Green,Left,Jill Stein,42,FALSE,FALSE
+2012,Cheatham,Justice,Left,Rocky Anderson,26,FALSE,FALSE
+2012,Cheatham,Libertarian,Center,Gary Johnson,131,FALSE,FALSE
+2012,Cheatham,American Third Position,Far-Right,Merlin Miller,18,FALSE,FALSE
+2016,Cheatham,Republican,Center-Right,Donald Trump,11297,TRUE,TRUE
+2016,Cheatham,Democratic,Center-Left,Hillary Clinton,3878,FALSE,FALSE
+2016,Cheatham,Libertarian,Center,Gary Johnson,463,FALSE,FALSE
+2016,Cheatham,Green,Left,Jill Stein,99,FALSE,FALSE
+2016,Cheatham,Independent:Mike_Smith,Right,Mike Smith,50,FALSE,FALSE
+2016,Cheatham,Independent:Evan_McMullin,Center-Right,Evan McMullin,90,FALSE,FALSE
+2016,Cheatham,Reform,Center,Rocky De La Fuente,26,FALSE,FALSE
+2016,Cheatham,Socialist Workers,Far-Left,Alyson Kennedy,13,FALSE,FALSE
+2016,Cheatham,Constitution,Far-Right,Darrell Castle,8,FALSE,FALSE
+2016,Cheatham,Independent:Kyle_Kenley_Kopitke,Right,Kyle Kenley Kopitke,0,FALSE,FALSE
+2016,Cheatham,Independent:Laurence_Kotlikoff,Center,Laurence Kotlikoff,0,FALSE,FALSE
+2016,Cheatham,Independent:David_Limbaugh,Right,David Limbaugh,0,FALSE,FALSE
+2016,Cheatham,Independent:Marshall_Schoenke,Other,Marshall Schoenke,0,FALSE,FALSE
+2016,Cheatham,Independent:Cherunda_Fox,Other,Cherunda Fox,0,FALSE,FALSE
+2016,Cheatham,Americas,Right,Tom Hoefling,0,FALSE,FALSE
+2020,Cheatham,Socialist Workers,Far-Left,Alyson Kennedy,5,FALSE,FALSE
+2020,Cheatham,American Solidarity,Left,Brian Carroll,0,FALSE,FALSE
+2020,Cheatham,Constitution,Far-Right,Don Blankenship,31,FALSE,FALSE
+2020,Cheatham,Republican,Center-Right,Donald J. Trump,14438,FALSE,TRUE
+2020,Cheatham,Socialism/Peace & Freedom,Far-Left,Gloria La Riva,1,FALSE,FALSE
+2020,Cheatham,Green,Left,Howie Hawkins,27,FALSE,FALSE
+2020,Cheatham,Independent:Jade_Simmons,Other,Jade Simmons,0,FALSE,FALSE
+2020,Cheatham,Libertarian,Center,Jo Jorgensen,205,FALSE,FALSE
+2020,Cheatham,Democratic,Center-Left,Joseph R. Biden,5514,TRUE,FALSE
+2020,Cheatham,Independent:Kanye_West,Other,Kanye West,24,FALSE,FALSE
+2020,Cheatham,Independent:Kasey_Wells,Left,Kasey Wells,0,FALSE,FALSE
+2020,Cheatham,Independent:R19_Boddie,Other,R19 Boddie,0,FALSE,FALSE
+2020,Cheatham,Reform,Center,"Roque ""Rocky"" De La Fuente",15,FALSE,FALSE
+2020,Cheatham,Independent:Tom_Hoefling,Far-Right,Tom Hoefling,0,FALSE,FALSE
