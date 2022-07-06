@@ -4,9 +4,10 @@ This repository contains data useful to folks analyzing elections in Cheatham Co
 
 The "data" folder contains two spreadsheets:
 
-* "Cheatham_County_Data_for_US_Presidential_elections_1904_to_2020.csv" contains data on US Presidential elections in Cheatham from 1904 to 2020
+* "Cheatham_County_Data_for_US_Presidential_elections_1856_to_2020.csv" contains data on US Presidential elections in Cheatham from 1856 to 2020
 * "Cheatham_Precinct_Data_for_state_federal_races_1998_to_2020.csv" contains data on state/federal elections in Cheatham from 1998 to 2020
 * "Cheatham_Local_Election_Sample_Spreadsheet.csv" is a sample template to create a database of local elections
+* "Cheatham_Population.csv" contains data on Cheatham County's population.   Currently from 1856 to 2021.   The "population" column contains official numbers from the US Census.  The "population_interp" column uses a cubic spline to interpolate missing values from 1856 to 1970 since those years only have official values every 10 years during a census.
 
 These data files can be opened using a spreadsheet like Microsoft Excel, LibreOffice Calc, or Google Sheets, or a database program like Access or LibreOffice Base, but for analysis I 
 highly recommend data science software like R/RStudio (hard but what I use, [click here](https://www.rstudio.com/products/rstudio/) for free version), Tableau ([click 

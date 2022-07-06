@@ -1,4 +1,37 @@
 Year,County,Party,Partisan_Lean,Candidate,Votes,National_Winner,County_Winner
+1856,Cheatham,Democratic,Center-Left,James Buchanan,465,TRUE,TRUE
+1856,Cheatham,American Know-Nothing,Center-Right,Millard Fillmore,423,FALSE,FALSE
+1868,Cheatham,Republican,Center-Right,Ulysses S Grant,73,TRUE,TRUE
+1868,Cheatham,Democratic,Center-Left,Horatio Seymour,30,FALSE,FALSE
+1872,Cheatham,Democratic,Center-Left,Horace Greeley,702,FALSE,TRUE
+1872,Cheatham,Republican,Center-Right,Ulysses S Grant, 284,TRUE,FALSE
+1872,Cheatham,Liberal Republican,Center-Right,Horace Greely, UNKNOWN,FALSE,FALSE
+1876,Cheatham,Democratic,Center-Left,Samuel J. Tilden,899,FALSE,TRUE
+1876,Cheatham,Republican,Center-Right,Rutherford B. Hayes,267,TRUE,FALSE
+1880,Cheatham,Democratic,Center-Left,Winfield S. Hancock,794,FALSE,TRUE
+1880,Cheatham,Republican,Center-Right,James A. Garfield,291,TRUE,FALSE
+1880,Cheatham,Greenback,Left,James B. Weaver,86,FALSE,FALSE
+1884,Cheatham,Democratic,Center-Left,Grover Cleveland,959,TRUE,TRUE
+1884,Cheatham,Republican,Center-Right,James G. Blaine,335,FALSE,FALSE
+1884,Cheatham,Prohibition,Right,John St. John,UNKNOWN(<= 7),FALSE,FALSE
+1884,Cheatham,Greenback,Left,Benjamin Butler,UNKNOWN(<= 7),FALSE,FALSE
+1888,Cheatham,Democratic,Center-Left,Grover Cleveland,1063,FALSE,TRUE
+1888,Cheatham,Republican,Center-Right,Benjamin Harrison,305,TRUE,FALSE
+1888,Cheatham,Prohibition,Right,Clinton Bowen Fisk,40,FALSE,FALSE
+1888,Cheatham,Labor,Left,Alson Streeter,0,FALSE,FALSE
+1892,Cheatham,Democratic,Center-Left,Grover Cleveland,732,TRUE,TRUE
+1892,Cheatham,Republican,Center-Right,Benjamin Harrison,242,FALSE,FALSE
+1892,Cheatham,People's Party,Left,James Weaver,554,FALSE,FALSE
+1892,Cheatham,Prohibition,Right,John Bidwell,19,FALSE,FALSE
+1896,Cheatham,Democratic,Center-Left,William Jennings Bryan,1237,FALSE,TRUE
+1896,Cheatham,Republican,Center-Right,William McKinley,496,TRUE,FALSE
+1896,Cheatham,Prohibition,Right,Joshua Levering,9,FALSE,FALSE
+1896,Cheatham,National Democratic,Center-Right,John M. Palmer,30,FALSE,FALSE
+1900,Cheatham,Democratic,Center-Left,William Jennings Bryan,1190,FALSE,TRUE
+1900,Cheatham,Republican,Center-Right,William McKinley,440,TRUE,FALSE
+1900,Cheatham,Prohibition,Right,John Wooley,24,FALSE,FALSE
+1900,Cheatham,Populist,Left,Wharton Barker,3,FALSE,FALSE
+1900,Cheatham,Socialist,Left,Eugene Debs,0,FALSE,FALSE
 1904,Cheatham,Democratic,Center-Left,Alton B. Parker,1015,FALSE,TRUE
 1904,Cheatham,Republican,Center-Right,Theodore Roosevelt,420,TRUE,FALSE
 1904,Cheatham,Populist,Left,Thomas E. Watson,8,FALSE,FALSE
